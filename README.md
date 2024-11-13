@@ -1,21 +1,21 @@
-<h1>Hi, I'm Jonathan! </h1>
+# Hi, I'm Jonathan! 👋
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Aspiring **Software Engineer** with a passion for creating sleek and functional applications. I'm currently pursuing my Bachelor of Science in Software Engineering and have experience in IT and development. Welcome to my GitLab profile!
 
-- [Active Directory Home Lab](https://github.com/jonhiggins92/LABURL)
-- [Hello World](https://github.com/jonhiggins92/LABURL)
+## 👨‍💻 Software Development Projects:
+- [Hello GitHub App](https://github.com/jonhiggins92/hello-github) - A sleek interactive web app with stylish animations and features.
+- [TTRPG Combat Tracker](https://github.com/jonhiggins92/TTRPGTracker) - A web-based combat tracker for tabletop role-playing games.
 
-<h2>📄 Certifications</h2>
+## 📄 Certifications
+- **[CompTIA A+](https://github.com/jonhiggins92/LABURL)** - Verified IT foundation knowledge and skills.
+- **ITIL 4 Foundations** - Service management framework expertise.
 
-- [CompTIA A+](https://github.com/jonhiggins92/LABURL)
+## 📚 Current Focus:
+- Completing my degree in Software Engineering.
+- Developing interactive web apps with modern frameworks and technologies.
+- Exploring DevOps and security concepts for future career growth.
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
+[<img align="left" alt="Jonathan Higgins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/jon-higgins-b89831281
